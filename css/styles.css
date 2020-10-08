@@ -1,0 +1,250 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  padding-top: 34px;
+}
+.logo {
+  padding-top: 22.5px;
+  display: block;
+}
+.nav-link {
+  color: #5d5f65;
+  font-size: 16px;
+  padding: 0.5rem 0.8rem;
+}
+.texto-en-centro {
+  align-items: center;
+  width: 100%;
+  height: 615px;
+  display: flex;
+}
+.texto-en-centro h1 {
+  color: #141720;
+  font-weight: bold;
+  font-size: 44px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 17px;
+}
+.texto-en-centro h2 {
+  font-size: 25px;
+  line-height: 2.4;
+}
+.dos-secciones {
+  padding-top: 145px;
+  background: #141720;
+  color: #fff;
+  position: relative;
+  padding-bottom: 306px;
+  
+}
+.imagen-la-chaviza {
+  background: url(../images/imagen-la-chaviza.jpg);
+  background-size: cover;
+  position: absolute;
+  width: 950px;
+  height: 700px;
+  top: 0;
+  right: 0;
+
+}
+.imagen-timeline {
+background: url(../images/Timeline.jpg);
+position: relative;
+width: 261px;
+height: 511px;
+}
+.timeline{
+  align-items: right;
+  position: absolute;
+  width: 451px;
+  height: 314px;
+  left: 540px;
+  top: 142px;
+}
+.timeline h3{
+  font-size: 28px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.servicios{
+  padding-top: 125px;
+  margin-top: 200px;
+  background: #efefef;
+}
+.servicios h3{
+  font-size: 28px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.contenidos{
+  background: #efefef;
+  align-items: center;
+  padding-left: 420px;
+  padding-right: 420px;
+  padding-bottom: 150px;
+}
+.imagen-carterona{
+  padding-bottom: 20px;
+}
+h4.carterona{
+   font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.imagen-sonrisa{
+  padding-bottom: 20px;
+}
+h4.sonrisa{
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.imagen-corazon{
+  padding-bottom: 20px;
+}
+h4.corazon{
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.imagen-cohete{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+h4.cohete{
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.imagen-mando{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+h4.mando{
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.imagen-phone{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+h4.phone{
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.carterona{
+  padding-bottom: 15px;
+}
+.sonrisa{
+  padding-bottom: 15px;
+}
+.corazon{
+  padding-bottom: 15px;
+}
+.cohete{
+  padding-bottom: 15px;
+}
+.mando{
+  padding-bottom: 15px;
+}
+.phone{
+  padding-bottom: 15px;
+}
+.imagen-la-juventud {
+background: url(../images/imagen-la-juventud.jpg);
+background-size: cover;
+position: relative;
+width: 950px;
+height: 700px;
+left: -395px;
+}
+.seccion-dos{
+  background: #141720;
+  color: #fff;
+}
+.were-hiring{
+    padding-top: 115px;
+  position: absolute;
+width: 450px;
+height: 316px;
+left: 1100px;
+top: 143px;
+ padding-bottom: 145px;
+}
+.were-hiring h3{
+font-size: 28px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+}
+.fondo-form{
+  width: 1900px;
+  height: 720px;
+  background: #141720;
+}
+.formulario{
+  padding-top: 100px;
+height: 407px;
+left: 150px;
+top: 143.5px;
+bottom: 0px;
+
+}
+.formulario h3{
+  font-size: 28px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 26px;
+   color: #fff;
+   padding-bottom: 25px;
+}
+form{
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+   line-height: 26px;
+   padding-top: 15px;
+}
+.formulario h6{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+input, textarea{
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 26px;
+  background: #141720;
+  color: #fff
+}
+.botom {
+   padding-top: 35px;
+    padding: 2px;
+    background: #C71222;
+    border-radius: 25px 25px 25px 25px;
+    position: relative;
+    width: 170px;
+    height: 50px;
+    left: 281px;
+}
+h6.botom{
+  width: 170px;
+    height: 50px;
+    left: 281px;
+    top: 10px;
+}
+hr{
+  padding-bottom: 1px;
+  border-radius: 8px 8px 8px 8px;
+}
+.imagen-mapa {
+  background: url(../images/mapa.jpg);
+  background-size: cover;
+  position: absolute;
+  width: 950px;
+  height: 720px;
+  top: 3570px;
+  left: 951px;
+
+}
